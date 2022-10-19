@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 # Seting up my client config file
+=======
+>>>>>>> dc4d4d0eeffe920aba632e27a451fd4b0f9a80e7
 include stdlib
 
 file_line { 'Turn off passwd auth':
